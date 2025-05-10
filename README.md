@@ -2,7 +2,7 @@
 
 A curated collection of everything I'm reading, watching, building, and thinking about in the world of AI. This is my digital scrap book of the AI journey – theory, tools, experiments.
 
-I also post on X regularly @nikhil2197[https://x.com/nikhil2197] about the same. 
+I also post on X regularly [@nikhil2197](https://x.com/nikhil2197) about the same. 
 
 _Last Update: 10th May 2025_
 
@@ -136,7 +136,7 @@ This space is a superset of the above 2 use cases, expanded for entertainment as
 This category is on the cusp of production quality, driven by advancements in **Smart appliances** (vacuums, fridges) that are practical and functional but currently limited by high costs. As costs decrease, adoption will grow, with **new use cases** emerging.  
 
 _Interesting products_
-- [Doji](https://www.posha.com/private-chef) 
+- [Posha](https://www.posha.com/private-chef) 
 
 ---
 
