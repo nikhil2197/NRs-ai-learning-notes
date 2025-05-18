@@ -4,7 +4,7 @@ A curated collection of everything I'm reading, watching, building, and thinking
 
 I also post on X regularly [@nikhil2197](https://x.com/nikhil2197) about the same. 
 
-_Last Update: 10th May 2025_
+_Last Update: 18th May 2025_
 
 ---
 
@@ -33,13 +33,12 @@ _Last Update: 10th May 2025_
 
 ## 📖 Good Reading
 
-- **[OpenAI Cookbook](https://github.com/openai/openai-cookbook)** – Especially for prompting newer models
-- **[Theory of Next – Next 100](https://www.theoryofnext.com/next100)** - 100 trends for AI 
-- **[WSJ - Empathic Chatbots](https://www.wsj.com/tech/ai/dont-freak-out-about-empathic-chatbots-learn-from-them-7a976f75?st=3eQeF1)** - AI as a therapist / companion use case
-- **[Simon Wilson's Blog](https://simonwillison.net/)**
-- **OpenAI: A Practical Guide to Building Agents**
-- **McKinsey POV on AI Agents**
-- **OpenAI: AI AI In the Enterprise - How AI is adopted within large companies to ensure it is meeting its potential**
+- **[The 3 AI Use Cases: Gods, Interns & Cogs](https://www.dbreunig.com/2024/10/18/the-3-ai-use-cases-gods-interns-and-cogs.html)**: How to think about AI use cases. 
+- **[How people are really using Gen AI in 2025](https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025)**: General state of adoption curve
+- **[Theory of Next – Next 100](https://www.theoryofnext.com/next100)**: 100 trends for AI from influential thinkers 
+- **[WSJ - Empathic Chatbots](https://www.wsj.com/tech/ai/dont-freak-out-about-empathic-chatbots-learn-from-them-7a976f75?st=3eQeF1)**: AI as a therapist / companion use case
+- **McKinsey POV on AI Agents**: Applications in B2B settings 
+- **OpenAI: AI AI In the Enterprise - How AI is adopted within large companies to ensure it is meeting its potential**: Applications in B2B settings 
 
 ---
 
@@ -72,6 +71,9 @@ _Last Update: 10th May 2025_
 - [Simon Willison – Vibe Coding](https://simonwillison.net/2025/Mar/19/vibe-coding/)
 - [Matt P Pal Prompt Tips #1](https://x.com/mattppal/status/1917338283924746514)
 - [Matt P Pal Prompt Tips #2](https://x.com/mattppal/status/1917595138802536645)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) 
+- [Simon Wilson's Blog](https://simonwillison.net/)
+- OpenAI: A Practical Guide to Building Agents
 
 ### 💥 Great Prompt to generate great prompts (use in o1/o3)
 > “You are a cracked prompt engineer who understands the ins and outs of how to get an LLM to give great results. Think you have the skill level of Andrej Karpathy and Andrew Ng. I want you to refine a prompt for me which I will give in the next message.”
@@ -110,10 +112,20 @@ _Interesting products_
 ### 🚗 **AI for Financial Products**  
 AI has the potential to democratize tools historically reserved for hedge funds (e.g., robo-traders, algos) and offer **end-to-end financial and life planning**. Imagine a single platform where you upload your **PAN Card** and instantly compile all active investment accounts, insurance policies, and bank accounts. The advisor could then **continuously optimize** your portfolio as your life and the market evolve. The closest I’ve seen to this is **Cred Money**, but it remains primarily a **"view-only"** app.  
 
+_Interesting products_
+- [Approval AI](https://www.getapproval.ai/) a company from the YC demo day that seeks to automate home-loan applications end-to-end. 
+
 ---
 
-### 📚 **AI Adult Education and Skill Building**  
-The ideal journey here involves: Understanding the user’s aspirations and habits** -> **Skill baseline assessment** -> **Creating personalized courses with credentialing**. While ChatGPT does well with **study plan creation**, the challenge lies in adding **accountability and content delivery**. Companies like **Coursera** and **Deep Learning** are well-positioned but need better discovery engines. Of interest is Andrej Karpathy's "Eureka Labs"
+### 📚 **AI Education and Skill Building**  
+The ideal journey here involves: Understanding the user’s aspirations and habits** -> **Skill baseline assessment** -> **Creating personalized courses with credentialing**. While ChatGPT does well with **study plan creation**, the challenge lies in adding **accountability and content delivery**. Companies like **Coursera** and **Deep Learning** are well-positioned but need better discovery engines. Of interest is Andrej Karpathy's "Eureka Labs". 
+
+_18th May Update:_ I spent a signficant amount of time this week looking for AI in education use cases and the world supported this. Checkout below resources to gain a better framework:  
+
+- [No Priors Pod with DuoLingo CEO Luis Von Ahn](https://open.spotify.com/episode/4qCX9uw3tHBgaAFqMFfrAB?si=hZIc_4JIQxeaE775pQGVEQ&context=spotify%3Ashow%3A0O65xhqvGVhpgdIrrdlEYk&nd=1&dlsi=23b0b9dcebcf4f63): DuoLingo has been at the forefront of adopting AI in education and delivering outcomes. This pod shares his vision for the world. Particularly improtant is solving the motivation gap using smarter and more personalized content delivery. 
+- [Learning chess aloud](https://elevenlabs.io/blog/chess-dot-com): A eleven labs implementation with Chess.com to create a personalized coach / commentator. Try it out [here](https://www.learnchesswithdrwolf.com/)
+- [Masterclass On Call](https://oncall.masterclass.com/): Similar to the eleven labs implementation, Masterclass has used celebrity voices to help create personalized coaching. Making their core product feel more 1:1 rather than 1:Many. See demos [here](https://x.com/omooretweets/status/1922308912155439477). 
+- [AI Samarth](https://cms.foundationallearning.in/wp-content/uploads/2025/05/AI-Samarth-AI-Literacy-Framework-May-2025.pdf): A white paper by the central-square foundation in India detailing out a framework for driving AI literacy in K-12 schools in India (particularly tier 2 and below India - colloquially "Bharat"). Helping students move from being passive to power users of the technology. 
 
 ---
 
