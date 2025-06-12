@@ -37,6 +37,7 @@ _Last Update: 12th June 2025_
 - **[How people are really using Gen AI in 2025](https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025)**: General state of adoption curve
 - **[Theory of Next – Next 100](https://www.theoryofnext.com/next100)**: 100 trends for AI from influential thinkers
 - **[The Gentle Singularity - Sam Altman](https://blog.samaltman.com/the-gentle-singularity)**: How to think about the AI capability evolution curve
+- **[Building Culturally Relevant Models - B Ravindran](https://www.nature.com/articles/d44151-025-00084-4)**: Making AI models more inclusive to ensure there isn't a new "digital divide" that is created in AI understanding. For more info - read the AI Samarth doc in the AI for Education context. 
 - **[WSJ - Empathic Chatbots](https://www.wsj.com/tech/ai/dont-freak-out-about-empathic-chatbots-learn-from-them-7a976f75?st=3eQeF1)**: AI as a therapist / companion use case
 - **McKinsey POV on AI Agents**: Applications in B2B settings 
 - **OpenAI: AI AI In the Enterprise - How AI is adopted within large companies to ensure it is meeting its potential**: Applications in B2B settings 
