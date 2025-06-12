@@ -4,7 +4,7 @@ A curated collection of everything I'm reading, watching, building, and thinking
 
 I also post on X regularly [@nikhil2197](https://x.com/nikhil2197) about the same. 
 
-_Last Update: 18th May 2025_
+_Last Update: 12th June 2025_
 
 ---
 
@@ -140,7 +140,11 @@ _Interesting products_
 ---
 
 ### 📷 **AI for Content**  
-This space is a superset of the above 2 use cases, expanded for entertainment as well. **Personalized gaming, movie creation, and content generation.** Creating immersive, AI-generated experiences tailored to user preferences.  
+This space represents a superset of the previous two use cases, now expanded to include entertainment — specifically **personalized gaming, movie creation, and content generation**. The goal is to create immersive, AI-generated experiences tailored to individual user preferences.
+
+[Nikunj Kothari’s piece, *Generated Worlds*](https://writing.nikunjk.com/p/generated-worlds) captures the vast potential of this technology brilliantly. In recent weeks (as of June 12, 2025), the launch of Google Veo has triggered a Cambrian explosion in user-generated content. From the viral “Talking Baby Podcast” to imaginative “Yeti / Bigfoot” videos, anything users can dream up can now be brought to life.
+
+While early adopters have largely been professional content creators, the landscape is quickly shifting. As onboarding and creation tools become more accessible, everyday users will soon be able to generate their own high-quality content on demand.
 
 ---
 
