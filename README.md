@@ -35,7 +35,8 @@ _Last Update: 12th June 2025_
 
 - **[The 3 AI Use Cases: Gods, Interns & Cogs](https://www.dbreunig.com/2024/10/18/the-3-ai-use-cases-gods-interns-and-cogs.html)**: How to think about AI use cases. 
 - **[How people are really using Gen AI in 2025](https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025)**: General state of adoption curve
-- **[Theory of Next – Next 100](https://www.theoryofnext.com/next100)**: 100 trends for AI from influential thinkers 
+- **[Theory of Next – Next 100](https://www.theoryofnext.com/next100)**: 100 trends for AI from influential thinkers
+- **[The Gentle Singularity - Sam Altman](https://blog.samaltman.com/the-gentle-singularity)**: How to think about the AI capability evolution curve
 - **[WSJ - Empathic Chatbots](https://www.wsj.com/tech/ai/dont-freak-out-about-empathic-chatbots-learn-from-them-7a976f75?st=3eQeF1)**: AI as a therapist / companion use case
 - **McKinsey POV on AI Agents**: Applications in B2B settings 
 - **OpenAI: AI AI In the Enterprise - How AI is adopted within large companies to ensure it is meeting its potential**: Applications in B2B settings 
