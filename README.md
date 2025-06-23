@@ -4,7 +4,7 @@ A curated collection of everything I'm reading, watching, building, and thinking
 
 I also post on X regularly [@nikhil2197](https://x.com/nikhil2197) about the same. 
 
-_Last Update: 12th June 2025_
+_Last Update: 23rd June 2025_
 
 ---
 
@@ -37,7 +37,8 @@ _Last Update: 12th June 2025_
 - **[How people are really using Gen AI in 2025](https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025)**: General state of adoption curve
 - **[Theory of Next – Next 100](https://www.theoryofnext.com/next100)**: 100 trends for AI from influential thinkers
 - **[The Gentle Singularity - Sam Altman](https://blog.samaltman.com/the-gentle-singularity)**: How to think about the AI capability evolution curve
-- **[Building Culturally Relevant Models - B Ravindran](https://www.nature.com/articles/d44151-025-00084-4)**: Making AI models more inclusive to ensure there isn't a new "digital divide" that is created in AI understanding. For more info - read the AI Samarth doc in the AI for Education context. 
+- **[Your Brain on ChatGPT - MIT Labs](https://www.media.mit.edu/publications/your-brain-on-chatgpt/))**: A paper from MIT studying the impact of ChatGPT (an AI tools in general) on the cognitive abilities of humans. 
+- **[Building Culturally Relevant Models - B Ravindran](https://www.nature.com/articles/d44151-025-00084-4)**: Making AI models more inclusive to ensure there isn't a new "digital divide" that is created in AI understanding. For more info - read the AI Samarth doc in the AI for Education context.
 - **[WSJ - Empathic Chatbots](https://www.wsj.com/tech/ai/dont-freak-out-about-empathic-chatbots-learn-from-them-7a976f75?st=3eQeF1)**: AI as a therapist / companion use case
 - **McKinsey POV on AI Agents**: Applications in B2B settings 
 - **OpenAI: AI AI In the Enterprise - How AI is adopted within large companies to ensure it is meeting its potential**: Applications in B2B settings 
@@ -151,10 +152,12 @@ While early adopters have largely been professional content creators, the landsc
 ---
 
 ### 🍽 **AI for Homegoods Use Cases**  
-This category is on the cusp of production quality, driven by advancements in **Smart appliances** (vacuums, fridges) that are practical and functional but currently limited by high costs. As costs decrease, adoption will grow, with **new use cases** emerging.  
+This category is on the cusp of production quality, driven by advancements in **Smart appliances** (vacuums, fridges) that are practical and functional but currently limited by high costs. As costs decrease, adoption will grow, with **new use cases** emerging. I also see this category moving over time from "special purpose" to "general purpose" home assistance robots that will find adoption in high CoL western contries. For the special purpose applications such as vacuum cleaners (the most popular use case) - over time the requirement of "human in the loop" will come down. 
 
 _Interesting products_
-- [Posha](https://www.posha.com/private-chef) 
+- [Generalist](https://generalistai.com/)
+- [Matic](https://maticrobots.com/) 
+- [Posha](https://www.posha.com/private-chef)
 
 ---
 
