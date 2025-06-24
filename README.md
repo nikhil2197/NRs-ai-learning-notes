@@ -4,7 +4,7 @@ A curated collection of everything I'm reading, watching, building, and thinking
 
 I also post on X regularly [@nikhil2197](https://x.com/nikhil2197) about the same. 
 
-_Last Update: 23rd June 2025_
+_Last Update: 24th June 2025_
 
 ---
 
@@ -82,17 +82,53 @@ _Last Update: 23rd June 2025_
 > “You are a cracked prompt engineer who understands the ins and outs of how to get an LLM to give great results. Think you have the skill level of Andrej Karpathy and Andrew Ng. I want you to refine a prompt for me which I will give in the next message.”
 ---
 
-# ⚙️ Real-World Consumer Use Cases I've Tried / Am Curious About
+# ⚙️ Building AI Products
 
-I’ve listed some of the products I’ve used or am currently exploring in each category. Given the product direction from leading LLM model makers like OpenAI, Google, and Meta, it’s clear that many of these solutions will soon evolve into integrated mini-apps within their broader ecosystems. I’m constantly experimenting with new products and will keep this list updated as I explore more options.
+I've listed some of the products I’ve used directly or am excited about in different consumer categories. Given the strategic direction from model makers like OpenAI, Google, Microsoft etc. It’s clear that many of today’s “software only” solutions will soon become integrated mini-apps within their larger ecosystems—either organically or via M&A. This leads to the broader product insight below.
 
-_Product Insight_:
-The key to building a sustainable moat in this space is not just about leveraging AI for improved search and discovery. While enhanced search capabilities are valuable, they are only one piece of the puzzle. The real opportunity lies in seamlessly integrating AI into every aspect of the customer journey and experience.
+---
 
-Companies that aim to build truly transformative products should think beyond isolated features and instead strive to create holistic, AI-driven experiences. This is analogous to how Tesla approaches "Full-Self-Driving" – not just automating one part of the driving process, but crafting a complete, intelligent system that continuously learns and adapts.
+## Product Insight
 
-In the same way, companies in this space should focus on building AI solutions that go beyond isolated functions and work as cohesive, end-to-end experiences. For a more in-depth perspective, check out the "Next-100" link in the readings section.
+The key to building a sustainable moat in this space is not just about leveraging AI for improved search and discovery. While enhanced search capabilities are valuable, they are only one piece of the puzzle. The real opportunity lies in seamlessly integrating AI into every aspect of the customer journey and experience. Companies that aim to build truly transformative products should think beyond isolated features and instead strive to create holistic, AI-driven experiences that are phygital in nature.
 
+This is analogous to how Tesla approaches Full-Self-Driving—not just automating one part of the driving process, but crafting a complete, intelligent system that continuously learns and adapts within the familiar form factor of a family vehicle.
+
+While Full-Self-Driving should be the end-point, the path to getting there involves progressive and slow automation of tasks that enable users to build more trust in both the company and the product. _It is evident that we wouldn't trust a car to drive on a highway automatically if we didn't trust it to turn on the windshield wipers or headlights automatically first._
+
+This path allows users to both feel the magic while also providing them with the ability to create the magic, which, over time, becomes more powerful and complex. Some valuable frameworks for building AI-first products are in the below links:
+
+- [Confidence in AI Results as a Metric for Product Success](https://blog.langchain.com/the-hidden-metric-that-determines-ai-product-success/)
+- [Software 3.0 after 18:22](https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again)
+
+---
+
+## What Determines the Speed and Quality of Progress?
+
+The speed of moving up the ladder and the fidelity of the first product is determined by the following:
+
+### 1. Your use case
+
+If you operate in a world where errors can be extremely costly (medical, legal, fraud-detection), your first use case has to be very small and highly accurate. You need to prioritize accuracy over speed while also ensuring that your users find value in the first mini-step you are automating. For example: Give a warning to turn on headlights in a basement, then automatically turn on headlights, and only then move to other aspects over time as trust in the system increases.
+
+Conversely, if you operate in a low cost function environment, you can provide greater power in the first product with lower accuracy. As in the case of the plethora of content-generation or general purpose LLM apps. Any automation here is valuable and users can fix or re-prompt without causing harm.
+
+### 2. Your users
+
+Typically, new technology has been adopted by power users first, and as a result, their patience for and understanding of the technology allows product builders to get away with rough edges, at least initially. 
+Due to the speed of proliferation of AI, product builders don't have the luxury of this anymore. Everyone wants to use the technology, but the technology itself is quite rough around the edges to deliver high quality results consistently without too much input from users or builders (due to its inherent stochastic nature).
+Thus, a deep understanding of the median abilities of a product’s users is critical to ensure that the product both helps them and also doesn't require too much effort from them to get that help. 
+A good example here is that Cursor or Windsurf can get away with more AI slop because coders and engineers can ID and fix those issues faster via better re-prompting, versus a lesson planning tool targeted at educators in developing countries can't get away with the same quality since they may not have the ability (or interest or incentive) to re-prompt in the right manner. The UI/UX decisions in these cases often become more important than the actual accuracy thresholds.
+
+---
+
+## The Good News for Product Builders
+
+The power of the models to consistently produce high quality results, the ability of users to use the technology to generate high-quality results, and the trust of users in the technology is all the lowest it will ever be.
+
+All three will only go up from here.
+
+---
 
 ### 🧥 **AI for Ecommerce**  
 The ultimate AI stylist would seamlessly integrate **Discovery** -> **SKU Selection** (size, fit, color) -> **Payment** -> **Delivery** -> **Returns and Re-engagement**. A potential model here could resemble Bonobos, offering a highly personalized, end-to-end shopping experience.  
