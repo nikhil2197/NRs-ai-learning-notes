@@ -125,9 +125,9 @@ A good example here is that Cursor or Windsurf can get away with more AI slop be
 
 ## The Good News for Product Builders
 
-The power of the models to consistently produce high quality results, the ability of users to use the technology to generate high-quality results, and the trust of users in the technology is all the lowest it will ever be.
+The power of the models to consistently produce high quality results, the ability of users to use the technology to generate high-quality results, and the trust of users in the technology is all the lowest it will ever be. All three will only go up from here.
 
-All three will only go up from here.
+At the same time, the cost of prototyping a product in terms of time, money and complexity is the highest it is ever going to be. The onus is now on builders to leverage get educated on AI and make use of the technology out there and get in-front of users to understand their use-case and user faster and more deeply. [Here is a guide to AI prototyping](https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product) to help you get started (after you have completed the basic Karpathy / Andrew Ng videos to understand the technology)
 
 ---
 
