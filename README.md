@@ -116,8 +116,9 @@ Conversely, if you operate in a low cost function environment, you can provide g
 ### 2. Your users
 
 Typically, new technology has been adopted by power users first, and as a result, their patience for and understanding of the technology allows product builders to get away with rough edges, at least initially. 
-Due to the speed of proliferation of AI, product builders don't have the luxury of this anymore. Everyone wants to use the technology, but the technology itself is quite rough around the edges to deliver high quality results consistently without too much input from users or builders (due to its inherent stochastic nature).
-Thus, a deep understanding of the median abilities of a product’s users is critical to ensure that the product both helps them and also doesn't require too much effort from them to get that help. 
+
+Due to the speed of proliferation of AI, product builders don't have the luxury of this anymore. Everyone wants to use the technology, but the technology itself is quite rough around the edges to deliver high quality results consistently without too much input from users or builders (due to its inherent stochastic nature). Thus, a deep understanding of the median abilities of a product’s users is critical to ensure that the product both helps them and also doesn't require too much effort from them to get that help. 
+
 A good example here is that Cursor or Windsurf can get away with more AI slop because coders and engineers can ID and fix those issues faster via better re-prompting, versus a lesson planning tool targeted at educators in developing countries can't get away with the same quality since they may not have the ability (or interest or incentive) to re-prompt in the right manner. The UI/UX decisions in these cases often become more important than the actual accuracy thresholds.
 
 ---
