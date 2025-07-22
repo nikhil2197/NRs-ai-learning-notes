@@ -4,7 +4,7 @@ A curated collection of everything I'm reading, watching, building, and thinking
 
 I also post on X regularly [@nikhil2197](https://x.com/nikhil2197) about the same. 
 
-_Last Update: 24th June 2025_
+_Last Update: 22nd July 2025_
 
 ---
 
@@ -84,7 +84,9 @@ _Last Update: 24th June 2025_
 
 # ⚙️ Building AI Products
 
-I've listed some of the products I’ve used directly or am excited about in different consumer categories. Given the strategic direction from model makers like OpenAI, Google, Microsoft etc. It’s clear that many of today’s “software only” solutions will soon become integrated mini-apps within their larger ecosystems—either organically or via M&A. This leads to the broader product insight below.
+I've listed some of the products I’ve used directly or am excited about in different consumer categories. Given the strategic direction from model makers like OpenAI, Google, Microsoft etc. It’s clear that many of today’s “software only” solutions will soon become integrated mini-apps within their larger ecosystems—either organically or via M&A. Already apparant by the launch of "OpenAI Agent" or the activity b/w OAI / Googgle and Windsurf. Even if they chose to not enter a space, a large portion of the business and pricing is dependent on the player giving you tokens. Anthropic gating Windsurf from Claude when it chose to partner with OAI creates a sort of key man risk for building a business. Even though the steelman here is that being independent gives you flexibility to chose the best model, the end user cares much more on a reliable product that a foundational player can provide. 
+
+This leads to the broader product insight below.
 
 ---
 
@@ -100,6 +102,7 @@ This path allows users to both feel the magic while also providing them with the
 
 - [Confidence in AI Results as a Metric for Product Success](https://blog.langchain.com/the-hidden-metric-that-determines-ai-product-success/)
 - [Software 3.0 after 18:22](https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again)
+- [Why 2025's AI Shopping Boom Still Can't Fix Broken Business Models](https://www.airsugar.com/p/why-2025s-ai-shopping-boom-still)
 
 ---
 
